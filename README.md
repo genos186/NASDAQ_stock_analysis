@@ -77,6 +77,14 @@ Real Estate
 'XOM'-ExxonMobil multinational oil and gas
 'YUM'-Yum! Brands Fast food
 ```
+
+#Implementations
+```
+RNN
+ARIMA
+ARIMA-LSTM Hybrid
+```
+
 Papers refered to get more insight into the problem and it's analysis:
 
 1. https://arxiv.org/pdf/1808.01560v5.pdf
