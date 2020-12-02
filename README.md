@@ -78,7 +78,7 @@ Real Estate
 'YUM'-Yum! Brands Fast food
 ```
 
-#Implementations
+# Implementations
 ```
 RNN
 ARIMA
