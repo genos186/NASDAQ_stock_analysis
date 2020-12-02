@@ -90,10 +90,3 @@ Papers refered to get more insight into the problem and it's analysis:
 5.https://ieeexplore.ieee.org/abstract/document/8626097
 
 6.http://www.joics.org/gallery/ics-4035.pdf
-
-By-
-Amogh R K
-
-Suhas Vasisht
-
-Chirag Kashyap
